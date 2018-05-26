@@ -7,6 +7,6 @@ setup(
 	author_email='contact@discowzombie.fr',
 	url='https://github.com/DiscowZombie/PodSixNet3/',
 	packages=['PodSixNet3'],
-	version=01,
+	version=1,
 )
 
